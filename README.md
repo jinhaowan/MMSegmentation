@@ -1,0 +1,2 @@
+# MMSegmentation
+在datawhale中学习的MMSegmentation思考和总结
